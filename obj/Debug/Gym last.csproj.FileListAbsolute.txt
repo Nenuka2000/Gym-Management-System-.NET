@@ -1,0 +1,15 @@
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\bin\Debug\Gym last.exe.config
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\bin\Debug\Gym last.exe
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\bin\Debug\Gym last.pdb
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym last.csproj.AssemblyReference.cache
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.Login.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.MainForm.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.Properties.Resources.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym last.csproj.GenerateResource.cache
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym last.csproj.CoreCompileInputs.cache
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym last.exe
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym last.pdb
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.AddMember.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.Payment.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.UpdateDelete.resources
+C:\Users\NV Nenuka\source\repos\Gym last\Gym last\obj\Debug\Gym_last.ViewMember.resources
